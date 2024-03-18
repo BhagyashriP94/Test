@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-16T12:32:30 IST" name="Default suite" finished-at="2024-03-16T12:33:03 IST" duration-ms="33097">
+  <suite started-at="2024-03-18T17:51:37 IST" name="Default suite" finished-at="2024-03-18T17:52:05 IST" duration-ms="28186">
     <groups>
     </groups>
-    <test started-at="2024-03-16T12:32:30 IST" name="Default test" finished-at="2024-03-16T12:33:03 IST" duration-ms="33097">
+    <test started-at="2024-03-18T17:51:37 IST" name="Default test" finished-at="2024-03-18T17:52:05 IST" duration-ms="28186">
       <class name="Basic.OrganizationTest">
-        <test-method signature="CreateOrganizationTest()[pri:0, instance:Basic.OrganizationTest@619713e5]" started-at="2024-03-16T12:32:30 IST" name="CreateOrganizationTest" finished-at="2024-03-16T12:33:03 IST" duration-ms="32982" status="PASS">
+        <test-method signature="CreateOrganisationTest()[pri:0, instance:Basic.OrganizationTest@393671df]" started-at="2024-03-18T17:51:37 IST" name="CreateOrganisationTest" finished-at="2024-03-18T17:52:05 IST" duration-ms="28103" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateOrganizationTest -->
+        </test-method> <!-- CreateOrganisationTest -->
       </class> <!-- Basic.OrganizationTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
